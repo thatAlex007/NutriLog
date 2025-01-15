@@ -6,7 +6,8 @@ import Login from './components/Login';
 import HealthForm from './components/HealthForm';
 import { UserProvider } from './context/UserContext';
 import RecipeList from './components/Rezeptlist';
-import KalorienTracker from './components/Kalorientracker';
+import KalorienTracker from './components/KalorienTracker';
+
 import TrainingPlan from './components/Trainingplan';
 import SignUp from './components/SignUp';
 
